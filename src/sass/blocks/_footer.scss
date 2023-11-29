@@ -1,0 +1,11 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+    bottom: 0px;
+    &__line {
+        width: 100%;
+        margin-bottom: 4px;
+        border-bottom: 1px solid #CFAA59;
+    }
+}
